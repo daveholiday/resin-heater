@@ -30,3 +30,8 @@ To be covered in another doc, or left to the reader.
 Result:
 -------
 Keeping the temps at ~85f has seen more consistent printing. No failed prints since install, and possibly better aging of the FEP film. (lower viscosity resulting in less release stretch?) This method is likely more power efficient than the space heater designs seen elsewhere as the two heaters combined draw ~1a @ 12v. It also adds less heat to the surrounding room, important on hot summer days. 
+
+Testing:
+--------
+
+Tests will be done at room temp ~70f/21c and with the resin heater on at ~90f/32c.  The target printer is an Anycubic Photon, so I will use the photon-resin-calibration tests found here: https://github.com/altLab/photon-resin-calibration
