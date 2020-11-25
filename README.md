@@ -2,11 +2,14 @@
 A Project to warm the resin in an SLA 3d printer. 
 
 12v Resin Vat Heater
-
+====================
 Reason:
+-------
 
-Formlabs heats the resin on their high end SLA resin printers.  It is known that most resins print faster when warm, and some not at all when cold. 
+Formlabs heats the resin on their high end SLA resin printers.  It is known that most resins print faster when warm, and some not at all when cold.
+
 Parts:
+------
 DC 12V Programmable Heating/Cooling Thermostat
 https://smile.amazon.com/gp/product/B07K68JJY1
 
@@ -18,6 +21,7 @@ https://smile.amazon.com/gp/product/B07C46XMP
 
 Multi pin water tight connector
 https://smile.amazon.com/gp/product/B01LCV8ZMA
+
 Result:
-Keeping the temps at ~85f has seen more consistent printing. No failed prints since install, and possibly better aging of the FEP film. (lower viscosity resulting in less release stretch?) 
-By directly heating the vat and by proxy the resin and build plate rather than the entire enclosure airspace this method adds less heat to the room and uses less additional power.  At a peak 1.1a draw it could be run off the same power supply as the photon with a slight modification.
+-------
+Keeping the temps at ~85f has seen more consistent printing. No failed prints since install, and possibly better aging of the FEP film. (lower viscosity resulting in less release stretch?) This method is likely more power efficient than the space heater designs seen elsewhere as the two heaters combined draw ~1a @ 12v. It also adds less heat to the surrounding room, important on hot summer days. 
