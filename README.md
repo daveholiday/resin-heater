@@ -22,6 +22,11 @@ https://smile.amazon.com/gp/product/B07C46XMP
 Multi pin water tight connector
 https://smile.amazon.com/gp/product/B01LCV8ZMA
 
+Assembly:
+---------
+
+To be covered in another doc, or left to the reader.
+
 Result:
 -------
 Keeping the temps at ~85f has seen more consistent printing. No failed prints since install, and possibly better aging of the FEP film. (lower viscosity resulting in less release stretch?) This method is likely more power efficient than the space heater designs seen elsewhere as the two heaters combined draw ~1a @ 12v. It also adds less heat to the surrounding room, important on hot summer days. 
